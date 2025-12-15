@@ -1,3 +1,4 @@
+<img src="./166936aef348e835ee0bf37fa14cb2dd.gif" width="300">
 
 <!--
 **fezinl/fezinl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
